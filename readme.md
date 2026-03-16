@@ -145,3 +145,4 @@ Run your app with `streamlit run app.py` and perform these steps:
     *   **View & Search:** Screenshot showing the inventory list and search bar.
     *   **Restock:** Screenshot showing the restocking interface.
     *   **Manage Orders:** Screenshot showing the order cancellation interface.# streamlit_homework-1
+# homework2.2
